@@ -1,0 +1,11 @@
+# Welcome to the WbPlugin config.
+# Whether the plugin is active on the server
+enable-plugin: true
+# Time frame (in seconds) players have to welcome a player who joins the server
+welcome-period: 10
+# How long (in seconds) a player has to wait before rejoining the server allows them to be welcomed
+player-cool-down: 10
+# Loot
+loot:
+  DIAMOND: 10
+  DIRT: 90

@@ -1,0 +1,4 @@
+name: WBPlugin
+version: '${project.version}'
+main: com.ethan.wbplugin.WBPlugin
+api-version: 1.19
